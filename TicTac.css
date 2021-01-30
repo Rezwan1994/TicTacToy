@@ -21,11 +21,18 @@ h1{
     width: 100px;
     line-height: 20p0x;
     float: left;
-    text-align: center;;
+    text-align: center;
+    
 
+}
+.col:hover{
+    background-color: lightgray;
 }
 .border_a{
     border-right: 5px solid yellow;
 
 
+}
+.winner{
+    background-color: red;
 }
