@@ -1,0 +1,31 @@
+.container{
+    margin-top: 300px;
+    text-align: center;
+    color: green;
+    width: 320px;
+    height: 320px;
+    margin:auto;
+}
+.row{
+   height: 100px;
+}
+.border_b{
+    border-bottom: 5px solid;
+   
+}
+h1{
+    font-size: 50px;
+}
+.col{
+    height:100%;
+    width: 100px;
+    line-height: 20p0x;
+    float: left;
+    text-align: center;;
+
+}
+.border_a{
+    border-right: 5px solid yellow;
+
+
+}
